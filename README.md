@@ -6,4 +6,4 @@
 #https://kubernetes.io/docs/tasks/access-application-cluster/access-cluster/
 
 #deploy nginx container using manifest file
-#kubectl apply -f nginx.yml
+#kubectl apply -f nginx.yaml
