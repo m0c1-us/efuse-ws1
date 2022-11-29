@@ -7,3 +7,4 @@
 
 #deploy nginx container using manifest file
 #kubectl apply -f nginx.yaml
+#kubectl get deployments
